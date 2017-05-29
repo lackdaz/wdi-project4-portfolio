@@ -28,11 +28,11 @@ h5 {
 }
 
 #banner {
-  background-image: url('assets/banner.jpg');
+  background-image: url('assets/banner.jpeg');
   padding : 15px;
   padding-bottom: 15px;
   padding-top: 5%;
-  height: 400px;
+  height: 500px;
   margin-bottom: 15px;
 }
 
