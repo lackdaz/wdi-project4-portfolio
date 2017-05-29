@@ -1,13 +1,2 @@
-# wdi-project4-portfolio
-
-#portfolio repo
-
-This will be the holding repo of my digital portfolio website
-
-For my portfolio, I decided to adopt a simple approach, just a simple static file with hrefs to my github projects
-
-Although a little plain, I feel that this provides a snapshot into my personality, that I prefer simple functioning applications to more complex ones.
-
-This webpage is mobile responsive, with the breakpoints located at 600px
-
-and the webpage is hosted on : https://cavacado.github.io/portfolio/
+Hello! My name is <strong>Vikas Garg</strong> and I'm a finance entrepreneur developing a foundation in programming so I can learn some new skills and take my ideas to the next level!<br><br>
+From March - June 2017, I was enrolled in General Assembly's full-time Web Development Immersive program in Singapore. The fast pace and immense volume of material covered made for an extremely challenging 3 months, but I'm proud to have made it through with some great new skills to continue developing. I completed several independent and team projects during the course.<br><br>Please visit a few of my featured projects! Thank you!
