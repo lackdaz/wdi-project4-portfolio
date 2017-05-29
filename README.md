@@ -7,7 +7,7 @@ From March - June 2017, I was enrolled in General Assembly's full-time Web Devel
 Please visit a few of my featured projects! Thank you!
 
 # **The Site**
-[My GA WDI Portfolio](https://vikasgarg.herokuapp.com)
+[My GA WDI Portfolio](https://vikasgarg1.github.io/wdi-project4-portfolio/)
 
 ## **Design and Functionality**
 1. Users can view the site and links to my projects.
