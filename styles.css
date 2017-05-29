@@ -1,0 +1,160 @@
+body {
+  font-family: 'Forum', cursive;
+  font-size: 175%;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+h4 {
+  font-size: 150%;
+}
+
+h5 {
+  font-size: 100%;
+}
+
+@media (min-width: 600px) {
+  h1 {
+    font-size: 300%;
+  }
+  h4 {
+    font-size: 150%;
+  }
+  h5 {
+    font-size: 150%;
+  }
+}
+
+#banner {
+  background-image: url('assets/banner.jpg');
+  padding : 15px;
+  padding-bottom: 15px;
+  padding-top: 5%;
+  height: 400px;
+  margin-bottom: 15px;
+}
+
+#line {
+  border-top: 5px solid #8c8b8b;
+}
+
+#name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Monofett', cursive;
+  color: orange;
+}
+
+#title {
+  font-size: 140px;
+  color: orange;
+}
+
+#position {
+  font-size: 50px;
+  color: orange;
+}
+
+#abstractWrapper div {
+  font-size: 25px;
+  border: 5px solid black;
+  padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.p-row div {
+  /*border: 1px solid black;*/
+  height: auto;
+  padding: 15px;
+}
+
+.p-row div div {
+  border: 5px solid black;
+}
+
+#portfolio {
+  margin-bottom: 20px;
+}
+
+
+#techSkills {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  border: 5px solid black;
+  margin-bottom: 20px;
+}
+
+#techSkills i {
+  display: inline-block;
+  font-size: 30px;
+  padding: 10px;
+}
+
+@media (min-width: 600px) {
+  #techSkills i {
+    display: inline-block;
+    font-size: 50px;
+    padding: 12px;
+  }
+}
+
+.t-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.t-row div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.t-row div span {
+  font-size: 85%;
+}
+
+@media (min-width: 600px) {
+  .t-row div span {
+    font-size: 80%;
+  }
+}
+
+img {
+  width: 280px;
+  border-radius: 5px;
+  border: 5px solid black;
+}
+
+@media (min-width: 600px) {
+  img {
+    width: 490px;
+    border-radius: 5px;
+    border: 5px solid black;
+  }
+}
+
+.extended-text {
+  display: none;
+}
+
+@media (min-width: 600px) {
+  .extended-text {
+    display: inline;
+  }
+}
+
+#formForEmail {
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}

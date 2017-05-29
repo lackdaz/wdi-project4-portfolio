@@ -1,0 +1,20 @@
+{
+  "name": "wdi-project4-portfolio",
+  "version": "1.0.0",
+  "description": "#portfolio repo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasgarg1/wdi-project4-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikasgarg1/wdi-project4-portfolio/issues"
+  },
+  "homepage": "https://github.com/vikasgarg1/wdi-project4-portfolio#readme"
+}
